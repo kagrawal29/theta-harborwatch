@@ -1,0 +1,8 @@
+[
+  {"event_id": " HW-001 ", "timestamp": "2026-09-20T09:00:00-04:00", "harbor": " Boston ", "event_type": " Arrival ", "severity": " INFO "},
+  {"event_id": "HW-002", "timestamp": "2026-09-20T13:05:00Z", "harbor": "Boston", "event_type": "Weather", "severity": "Warning"},
+  {"event_id": "HW-001", "timestamp": "2026-09-20T13:10:00Z", "harbor": "Boston", "event_type": "Arrival", "severity": "critical"},
+  {"event_id": "HW-003", "timestamp": "2026-09-20T15:15:00+02:00", "harbor": " Rotterdam ", "event_type": "Departure", "severity": "Info"},
+  {"event_id": "HW-004", "timestamp": "2026-09-20T13:20:00Z", "harbor": "Rotterdam", "event_type": "Safety", "severity": "Critical"},
+  {"event_id": " HW-002", "timestamp": "2026-09-20T13:05:00Z", "harbor": "Boston", "event_type": "Weather", "severity": "Warning"}
+]
